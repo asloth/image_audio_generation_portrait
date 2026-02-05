@@ -1,0 +1,29 @@
+{
+    "datos_completos": true,
+    "charact_data": {
+        "genero": "hombre",
+        "edad_aproximada": "17 años",
+        "forma_rostro": "círcular",
+        "tono_piel": "tez blanca",
+        "complexion_fisica": "robusto, gordito",
+        "color_ojos": "oscuros",
+        "tamano_ojos": null,
+        "forma_ojos": null,
+        "cejas": "delgadas",
+        "accesorios_ojos": null,
+        "forma_nariz": null,
+        "tamano_nariz": null,
+        "grosor_labios": "delgados",
+        "tamano_boca": "alargada",
+        "caracteristicas_dentales": null,
+        "color_cabello": "color no especificado (pelo rizado y corto)",
+        "textura_cabello": "rizado",
+        "longitud_cabello": "corto",
+        "tipo_corte_peinado": null,
+        "tamano_orejas": null,
+        "uso_aretes": null,
+        "senas_particulares": "pecas en la cara"
+    },
+    "estilo_preferido": "",
+    "pregunta_siguiente": "Si quieres, puedo generar una descripción de retrato hablado basada en los datos recopilados o preguntar por posibles detalles opcionales para enriquergol. También dime si quieres añadir notas sobre la constancia de rasgos para descartes de investigación."
+}
